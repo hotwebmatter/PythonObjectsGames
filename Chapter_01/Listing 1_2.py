@@ -2,8 +2,8 @@
 
 # Annotate variables
 DEGREES_CIRCLE: int = 360
-num_stars: int 
-angle: float 
+num_stars: int
+angle: float
 
 # Obtain the number of stars from the user.
 num_stars = int(input("How many stars? "))
